@@ -1,0 +1,27 @@
+#page-header h1{
+  font:Georgia, Times, serif;
+  font-style:italic;
+  font-weight:bold;
+  font-size:3em;
+}
+#page-header h2{
+  font:Georgia, Times, serif;
+  font-style:italic;
+  font-weight:bold;
+  font-size:1.5em;
+}
+#page-title h1{
+  font:Georgia, Times, serif;
+  font-size:1.8em;
+  font-weight:bold;
+}
+h2{
+  font:Georgia, Times, serif;
+  font-size:1.5em;
+  font-weight:bolder;
+}
+body{
+  font: verdana, helvetica, arial, sans-serif;
+  font-size:1em;
+  font-weight:normal;
+}
